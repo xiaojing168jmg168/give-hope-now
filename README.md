@@ -39,5 +39,5 @@ THEN I am taken to the home page and I can view stories and donate but I can not
 * Stripe payment platform
 
 ## Links
-[GitHub](https://github.com/kristyvanatta/Ripples-of-Hope)
+[GitHub](https://github.com/xiaojing168jmg168/give-hope-now)
 [Heroku]()
