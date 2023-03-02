@@ -26,7 +26,10 @@ THEN I am taken to the home page and I can view stories and donate but I can not
 ```
 
 ## Mock-up
-[Home page]()
+![give-hope-1](https://user-images.githubusercontent.com/110792983/222557549-abdc077b-b142-4307-92f9-011957819b9a.jpg)
+![give-hope-2](https://user-images.githubusercontent.com/110792983/222557571-64af68f7-4d65-4b01-a5aa-2347b9de5356.jpg)
+
+![give-hope-3](https://user-images.githubusercontent.com/110792983/222557590-c070d292-67a8-4d07-bc74-5b4cec297f7c.jpg)
 
 ## Technologies Used
 * React for the front end
