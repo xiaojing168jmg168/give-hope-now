@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sue Ruiz",
+        "email": "test@test.com",
+        "password": "password111"
+    },
+    {
+        "name": "Eric Barnes",
+        "email": "test1@test1.com",
+        "password": "password222"
+    }, 
+    {
+        "name": "Ray Bush",
+        "email": "test2@test2.com",
+        "password": "password333"
+    }
+]
